@@ -1,4 +1,6 @@
-<h1>Hotel Reservation System 🏨</h1>
+<h1>Hotel Reservation System 🏨</h1><br/>
+<a href='https://github.com/user-attachments/files/17949375/chaier_de_charge_reservation_hotel.pdf'>Report Link</a><br/>
+
 -Description 📖
 The Hotel Reservation System is a modern and user-friendly web application designed to streamline hotel reservations. This project caters to the needs of administrators, hotel managers, and customers by providing robust features like online booking, room management, secure payments, and more.
 
@@ -32,3 +34,4 @@ It is ideal for small to medium-sized hotels seeking to digitize their reservati
 -JWT: Secure user authentication.<br/>
 -Axios: API request handling.<br/>
 -Vite: Fast development server for React.<br/>
+
