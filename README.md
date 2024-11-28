@@ -1,34 +1,34 @@
-Hotel Reservation System 🏨
-Description 📖
-Hotel Reservation System est une application web moderne et intuitive permettant de gérer efficacement les réservations d'hôtel. Ce projet est conçu pour répondre aux besoins des administrateurs, des gestionnaires d'hôtels et des clients, en offrant des fonctionnalités robustes telles que la réservation en ligne, la gestion des chambres, les paiements sécurisés, et bien plus encore.
+#Hotel Reservation System 🏨
+-Description 📖
+The Hotel Reservation System is a modern and user-friendly web application designed to streamline hotel reservations. This project caters to the needs of administrators, hotel managers, and customers by providing robust features like online booking, room management, secure payments, and more.
 
-Ce projet est idéal pour les hôtels de petite et moyenne taille qui souhaitent digitaliser leur processus de réservation et offrir une expérience fluide et conviviale à leurs clients.
+It is ideal for small to medium-sized hotels seeking to digitize their reservation processes and provide a seamless experience for users.
 
-Fonctionnalités 🚀
-Pour les clients :
-Parcourir les chambres disponibles avec des détails et des photos 📸.
-Réserver une chambre en ligne 🛏️.
-Effectuer des paiements sécurisés 💳.
-Vérifier le statut de leurs réservations 📅.
-Recevoir des confirmations de réservation et des notifications 📩.
-Pour les administrateurs :
-Gérer les chambres (ajouter, modifier ou supprimer des chambres) 🏠.
-Suivre et gérer les réservations 📋.
-Générer des rapports de performance 📊.
-Rechercher une réservation spécifique via l'ID utilisateur 🔍.
-Authentification et autorisation :
-Système d'inscription et de connexion sécurisé 🔒.
-Gestion des profils utilisateur ✍️.
-Accès administrateur pour des fonctionnalités avancées 👑.
-Technologies utilisées 🛠️
-Frontend :
-React.js : Création d'une interface utilisateur interactive et réactive.
-Tailwind CSS : Stylisation rapide et moderne des composants.
-React Router : Gestion des routes et de la navigation.
-Backend :
-Spring Boot : API REST robuste pour la gestion des réservations et des données.
-MySQL : Base de données relationnelle pour le stockage des données.
-Autres outils :
-JWT : Authentification et sécurisation des utilisateurs.
-Axios : Gestion des appels API.
-Vite : Serveur de développement rapide pour React.
+-Features 🚀
++For Customers:
++Browse available rooms with detailed information and images 📸.
++Book a room online 🛏️.
++Make secure payments 💳.
++Check their booking status 📅.
++Receive booking confirmations and notifications 📩.
+-For Administrators:
++Manage rooms (add, update, or delete rooms) 🏠.
++Track and manage bookings 📋.
++Generate performance reports 📊.
++Search for specific bookings by user ID 🔍.
++Authentication and Authorization:
++Secure sign-up and login system 🔒.
++User profile management ✍️.
++Admin access for advanced features 👑.
+-Technologies Used 🛠️
++Frontend:
+-React.js: Build a responsive and interactive user interface.
+-Tailwind CSS: Modern and efficient component styling.
+-React Router: Manage routing and navigation.
+Backend:
+-Spring Boot: A robust RESTful API for handling reservations and data.
+-MySQL: Relational database for data storage.
++Additional Tools:
+-JWT: Secure user authentication.
+-Axios: API request handling.
+-Vite: Fast development server for React.
