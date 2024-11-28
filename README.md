@@ -4,14 +4,14 @@ The Hotel Reservation System is a modern and user-friendly web application desig
 
 It is ideal for small to medium-sized hotels seeking to digitize their reservation processes and provide a seamless experience for users.
 
-<h2>-Features 🚀</h2><br/>
+<h2>Features 🚀</h2><br/>
 +For Customers:<br/>
 +Browse available rooms with detailed information and images 📸.<br/>
 +Book a room online 🛏️.<br/>
 +Make secure payments 💳.<br/>
 +Check their booking status 📅.<br/>
 +Receive booking confirmations and notifications 📩.<br/>
-<h2>-For Administrators:</h2><br/>
+<h2>For Administrators 👤</h2><br/>
 +Manage rooms (add, update, or delete rooms) 🏠.<br/>
 +Track and manage bookings 📋.<br/>
 +Generate performance reports 📊.<br/>
@@ -20,12 +20,12 @@ It is ideal for small to medium-sized hotels seeking to digitize their reservati
 +Secure sign-up and login system 🔒.<br/>
 +User profile management ✍️.<br/>
 +Admin access for advanced features 👑.<br/>
-<h2>-Technologies Used 🛠️</h2><br/>
+<h2>Technologies Used 🛠️</h2><br/>
 +Frontend:<br/>
 -React.js: Build a responsive and interactive user interface.<br/>
 -Tailwind CSS: Modern and efficient component styling.<br/>
 -React Router: Manage routing and navigation.<br/>
-Backend:<br/>
++Backend:<br/>
 -Spring Boot: A robust RESTful API for handling reservations and data.<br/>
 -MySQL: Relational database for data storage.<br/>
 +Additional Tools:<br/>
