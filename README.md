@@ -1,4 +1,4 @@
-<h1>Hotel Reservation System 🏨</h1><br/>
+<h1>Hotel Reservation System 🏨</h1>
 <a href='https://github.com/user-attachments/files/17949375/chaier_de_charge_reservation_hotel.pdf'>Report Link</a><br/>
 
 -Description 📖
