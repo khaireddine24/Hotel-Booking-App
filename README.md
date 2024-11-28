@@ -1,7 +1,7 @@
 <h1>Hotel Reservation System 🏨</h1>
-<a href='https://github.com/user-attachments/files/17949375/chaier_de_charge_reservation_hotel.pdf'>Report Link</a><br/>
+<a href='https://github.com/user-attachments/files/17949375/chaier_de_charge_reservation_hotel.pdf'>Report Link</a><br/><br/>
 
--Description 📖
+<h2>Description 📖</h2>
 The Hotel Reservation System is a modern and user-friendly web application designed to streamline hotel reservations. This project caters to the needs of administrators, hotel managers, and customers by providing robust features like online booking, room management, secure payments, and more.
 
 It is ideal for small to medium-sized hotels seeking to digitize their reservation processes and provide a seamless experience for users.
