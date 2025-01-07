@@ -68,4 +68,9 @@ public class BookedRoomServiceImpl implements IBookedRoomService {
 		return bookingRepository.findAll();
 	}
 
+	@Override
+	public List<BookedRoom> getBookingsByUserEmail(String email) {
+		throw new UnsupportedOperationException("Unimplemented method 'getBookingsByUserEmail'");
+	}
+
 }
